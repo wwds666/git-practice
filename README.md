@@ -8,7 +8,7 @@
 - [x] git add / git commit 提交
 - [x] 建分支、合并分支
 - [x] 制造并解决一次冲突
-- [ ] 推送到 GitHub
+- [x] 推送到 GitHub
 
 ## 常用命令
 
