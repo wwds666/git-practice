@@ -1,0 +1,4 @@
+﻿Hello, Git!
+
+这是一个在 feature/hello 分支上新增的文件。
+它的作用只是证明：分支上的改动不会影响 main，直到你执行 merge。
