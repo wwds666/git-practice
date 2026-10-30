@@ -1,6 +1,6 @@
 ﻿# git-practice
 
-我的第一个 Git 练习仓库，用来练熟 Git / GitHub 的日常操作。
+我的第一个 Git 练习仓库，用来练熟 Git / GitHub 的日常操作。（主分支版）
 
 ## 练习清单
 
